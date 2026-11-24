@@ -15,15 +15,15 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','C
 @keyframes gira{to{transform:rotate(360deg)}}
 .pupila{transform-origin:600px 214px;animation:pulsa 4s ease-in-out infinite}
 @keyframes pulsa{0%,100%{transform:scale(1)}50%{transform:scale(1.18)}}
-.palp{transform-origin:600px 214px;animation:pisca 7s infinite}
-@keyframes pisca{0%,93%,100%{transform:scaleY(0)}96%{transform:scaleY(1)}}
+.palp{transform-origin:600px 214px;transform:scaleY(0);animation:pisca 6s ease-in-out infinite}
+@keyframes pisca{0%,34%{transform:scaleY(0)}40%{transform:scaleY(1)}43%{transform:scaleY(1)}50%,80%{transform:scaleY(0)}84%{transform:scaleY(1)}87%{transform:scaleY(.05)}90%{transform:scaleY(1)}94%,100%{transform:scaleY(0)}}
 .blink{animation:cur 1s steps(1) infinite}
 @keyframes cur{50%{opacity:0}}
 .bgtxt{animation:respira 6s ease-in-out infinite}
 @keyframes respira{0%,100%{opacity:.75}50%{opacity:1}}
 .scanmove{animation:desce 6s linear infinite}
 @keyframes desce{from{transform:translateY(-140px)}to{transform:translateY(520px)}}
-@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+@media (prefers-reduced-motion:reduce){*:not(.palp){animation:none!important}}
 </style>
 </defs>
 <rect width="1200" height="520" fill="#07030B"/>
