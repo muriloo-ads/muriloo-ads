@@ -1,83 +1,53 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,55:7a0c1e,100:c41230&height=190&section=header&text=Murilo%20Oliveira&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=sites%20que%20vendem%20%2B%20tr%C3%A1fego%20que%20traz%20cliente&descAlignY=58&descSize=17" width="100%" alt="Murilo Oliveira">
+<a href="https://muriloo-ads.github.io"><img src="assets/hero.svg" width="100%" alt="Um olho em arte ASCII com a íris girando e o nome MURILOO.ADS em letras de pixel"></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=FF4D6A&center=true&vCenter=true&width=560&lines=%3E+criando+sites+que+viram+clientes_;%3E+rodando+campanhas+no+Meta+Ads_;%3E+construindo+sistemas+sob+medida_;%3E+Bras%C3%ADlia+%E2%80%A2+DF+%E2%80%A2+atendo+todo+o+Brasil_" alt="Digitando: criando sites, rodando campanhas, construindo sistemas">
-</p>
-
-<p align="center">
-  <a href="https://ig.me/m/muriloo.ads"><img src="https://img.shields.io/badge/PE%C3%87A%20UM%20OR%C3%87AMENTO-direct%20no%20Instagram-c41230?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d" alt="Peça um orçamento pelo Instagram"></a>
-  <a href="https://instagram.com/muriloo.ads"><img src="https://img.shields.io/badge/@muriloo.ads-0d0d0d?style=for-the-badge&logo=instagram&logoColor=FF4D6A" alt="Instagram @muriloo.ads"></a>
+  <a href="https://muriloo-ads.github.io"><img src="https://img.shields.io/badge/%E2%96%B6%20ENTRAR%20NO%20MUNDO-vers%C3%A3o%20interativa-B6FF3B?style=for-the-badge&labelColor=07030B" alt="Entrar no mundo: versão interativa do perfil"></a>
+  <a href="https://ig.me/m/muriloo.ads"><img src="https://img.shields.io/badge/PE%C3%87A%20UM%20OR%C3%87AMENTO-direct-FF2E88?style=for-the-badge&logo=instagram&logoColor=white&labelColor=07030B" alt="Peça um orçamento pelo Instagram"></a>
+  <a href="https://instagram.com/muriloo.ads"><img src="https://img.shields.io/badge/@muriloo.ads-07030B?style=for-the-badge&logo=instagram&logoColor=FF6A3D" alt="Instagram @muriloo.ads"></a>
 </p>
 
 ```bash
 $ whoami
 > Murilo Oliveira · dev web + tráfego pago
-> Brasília, DF
+> Brasília, DF · atendo todo o Brasil
 
-$ cat servicos.txt
-> [01] sites e landing pages que convertem
-> [02] tráfego pago no Meta Ads
-> [03] sistemas: área do aluno, CRM, painéis
-> [04] social media e edição de vídeo
-
-$ echo $DIFERENCIAL
-> o site já nasce pensando no anúncio_
+$ echo $MISSAO
+> site que vende + anúncio que traz cliente_
 ```
 
-## 🕹️ Projetos
+<a href="https://muriloo-ads.github.io"><img src="assets/hands.svg" width="100%" alt="Duas mãos em arte ASCII quase se tocando, como na Criação de Adão, com código caindo ao fundo"></a>
+
+## 🕹️ Escolha uma fase
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://fvconsultoriaconcursos.com.br"><img src="https://fvconsultoriaconcursos.com.br/assets/og-image.jpg" alt="Site da FV Consultoria" width="100%"></a>
-
-**🎓 [FV Consultoria](https://fvconsultoriaconcursos.com.br)** `cliente real`<br>
-Site de vendas e plataforma de estudos para concursos: login de alunos, banco de questões, simulados cronometrados, revisão espaçada e aulas. O professor publica conteúdo direto do Word.<br>
-<sub>HTML · CSS · JavaScript · PHP · MySQL · Hostinger</sub>
-</td>
-<td width="50%" valign="top">
-
-**📊 CRM Multiunidade** `cliente real · código privado`<br>
-CRM para uma rede de lojas de sofás e colchões em Brasília: várias unidades e linhas de WhatsApp num só painel, ligado à API oficial do WhatsApp (Meta).<br>
-<sub>Supabase · WhatsApp Cloud API · Vercel</sub>
-
----
-
-**🍔 [Dguste](https://github.com/muriloo-ads/dgustesaas)** `demo`<br>
-Cardápio digital de hamburgueria com carrinho, pedido pelo WhatsApp, cupons e painel administrativo.<br>
-<sub>React · Vite · Firebase</sub>
-
----
-
-**🏦 [ByteBank API](https://github.com/muriloo-ads/bytebank-api-design-patterns)** `estudo`<br>
-API REST bancária em Java e Spring Boot com padrões de projeto.<br>
-<sub>Java · Spring Boot · Gradle</sub>
-</td>
+<td width="50%"><a href="https://fvconsultoriaconcursos.com.br"><img src="assets/card-fv.svg" width="100%" alt="FV Consultoria: site de vendas e plataforma de estudos para concursos. Cliente real."></a></td>
+<td width="50%"><a href="https://muriloo-ads.github.io/#projetos"><img src="assets/card-crm.svg" width="100%" alt="CRM Multiunidade: rede de lojas com várias unidades e linhas de WhatsApp num painel só. Código privado."></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/muriloo-ads/dgustesaas"><img src="assets/card-dguste.svg" width="100%" alt="Dguste: cardápio digital de hamburgueria com pedido pelo WhatsApp. Demo."></a></td>
+<td width="50%"><a href="https://github.com/muriloo-ads/bytebank-api-design-patterns"><img src="assets/card-bytebank.svg" width="100%" alt="ByteBank API: API REST bancária em Java e Spring Boot. Estudo."></a></td>
 </tr>
 </table>
 
-### 🛠️ Em construção
+<img src="assets/hud.svg" width="100%" alt="Player 1: sites 95%, tráfego pago 90%, sistemas 80%, social media 75%">
 
-- **Radar de Leads**: encontra no Google Maps negócios sem site, por nicho e cidade, para prospecção (Brasil e EUA).
-- **Muriloo Ads · Virtual Office**: escritório virtual em pixel-art onde agentes de IA trabalham como uma equipe.
+<details>
+<summary><b>🎁 Abrir baú › serviços</b></summary>
+<br>
 
-## ⚙️ Stack
+| power-up | o que você ganha |
+|---|---|
+| 🌐 **Sites e landing pages** | página rápida, bonita e feita para virar contato |
+| 📣 **Tráfego pago (Meta Ads)** | anúncios no Instagram e Facebook levando gente certa até você |
+| 🧩 **Sistemas sob medida** | área do aluno, CRM, painéis, login, banco de dados |
+| 🎬 **Social media e vídeo** | conteúdo e edição para o seu perfil |
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=E34F26">
-<img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=1572B6">
-<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&logo=php&logoColor=777BB4">
-<img src="https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=4479A1">
-<img src="https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=3FCF8E">
-<img src="https://img.shields.io/badge/Firebase-0d0d0d?style=for-the-badge&logo=firebase&logoColor=FFCA28">
-<img src="https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=ED8B00">
-<img src="https://img.shields.io/badge/Meta%20Ads-0d0d0d?style=for-the-badge&logo=meta&logoColor=0467DF">
-<img src="https://img.shields.io/badge/Claude-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=D97757">
-</p>
+</details>
 
-## 🎮 Como funciona
+<details>
+<summary><b>🗺️ Ver mapa › como funciona</b></summary>
+<br>
 
 ```text
 [1] conversa no Instagram  ►  entendo seu negócio
@@ -86,8 +56,35 @@ API REST bancária em Java e Spring Boot com padrões de projeto.<br>
 [4] anúncios (opcional)    ►  clientes chegando
 ```
 
-<p align="center">
-  <a href="https://ig.me/m/muriloo.ads"><img src="https://img.shields.io/badge/%E2%96%B6%20PRESS%20START-pe%C3%A7a%20seu%20or%C3%A7amento-c41230?style=for-the-badge&labelColor=0d0d0d" alt="Peça seu orçamento"></a>
-</p>
+</details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c41230,45:7a0c1e,100:0d0d0d&height=110&section=footer" width="100%" alt="">
+<details>
+<summary><b>🛠️ Próximas fases › em construção</b></summary>
+<br>
+
+- **Radar de Leads**: encontra no Google Maps negócios sem site, por nicho e cidade, para prospecção.
+- **Muriloo Ads · Virtual Office**: escritório virtual em pixel-art onde agentes de IA trabalham como uma equipe.
+
+</details>
+
+<details>
+<summary><b>⚙️ Inventário › stack</b></summary>
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-07030B?style=for-the-badge&logo=html5&logoColor=E34F26"> <img src="https://img.shields.io/badge/CSS3-07030B?style=for-the-badge&logo=css3&logoColor=1572B6"> <img src="https://img.shields.io/badge/JavaScript-07030B?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React-07030B?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/PHP-07030B?style=for-the-badge&logo=php&logoColor=777BB4"> <img src="https://img.shields.io/badge/MySQL-07030B?style=for-the-badge&logo=mysql&logoColor=4479A1"> <img src="https://img.shields.io/badge/Supabase-07030B?style=for-the-badge&logo=supabase&logoColor=3FCF8E"> <img src="https://img.shields.io/badge/Firebase-07030B?style=for-the-badge&logo=firebase&logoColor=FFCA28"> <img src="https://img.shields.io/badge/Java-07030B?style=for-the-badge&logo=openjdk&logoColor=ED8B00"> <img src="https://img.shields.io/badge/Meta%20Ads-07030B?style=for-the-badge&logo=meta&logoColor=0467DF"> <img src="https://img.shields.io/badge/Claude-07030B?style=for-the-badge&logo=anthropic&logoColor=D97757">
+
+</details>
+
+<details>
+<summary><b>👾 ↑ ↑ ↓ ↓ ← → ← → B A</b></summary>
+<br>
+
+```text
+MODO DEV ATIVADO ✦ você achou a fase secreta!
+manda "ARCADE" no direct pra dizer
+que chegou até aqui 👀
+```
+
+</details>
+
+<a href="https://ig.me/m/muriloo.ads"><img src="assets/footer.svg" width="100%" alt="PRESS START · insert coin: chama no direct e peça seu orçamento · instagram.com/muriloo.ads"></a>
