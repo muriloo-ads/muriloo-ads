@@ -10,17 +10,18 @@
 </p>
 
 ```bash
-murilo@muriloo-ads:~$ whoami
-> Murilo Oliveira · dev web + gestor de tráfego · Brasília, DF
+$ whoami
+> Murilo Oliveira · dev web + tráfego pago
+> Brasília, DF
 
-murilo@muriloo-ads:~$ cat servicos.txt
-> [01] sites e landing pages feitos para converter
-> [02] tráfego pago no Meta Ads (Instagram e Facebook)
-> [03] sistemas sob medida: área do aluno, CRM, painel admin, cardápio digital
+$ cat servicos.txt
+> [01] sites e landing pages que convertem
+> [02] tráfego pago no Meta Ads
+> [03] sistemas: área do aluno, CRM, painéis
 > [04] social media e edição de vídeo
 
-murilo@muriloo-ads:~$ echo $DIFERENCIAL
-> o site já nasce pensando no anúncio que vai trazer gente para ele_
+$ echo $DIFERENCIAL
+> o site já nasce pensando no anúncio_
 ```
 
 ## 🕹️ Projetos
@@ -79,10 +80,10 @@ API REST bancária em Java e Spring Boot com padrões de projeto.<br>
 ## 🎮 Como funciona
 
 ```text
-[ 1 ] conversa rápida no Instagram   ──►  entendo o seu negócio
-[ 2 ] proposta                       ──►  prazo e valor fechados
-[ 3 ] site no ar                     ──►  domínio, hospedagem e tudo configurado
-[ 4 ] anúncios (opcional)            ──►  clientes chegando no site
+[1] conversa no Instagram  ►  entendo seu negócio
+[2] proposta               ►  prazo e valor fechados
+[3] site no ar             ►  domínio e hospedagem prontos
+[4] anúncios (opcional)    ►  clientes chegando
 ```
 
 <p align="center">
